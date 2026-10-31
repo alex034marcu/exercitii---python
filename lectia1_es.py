@@ -18,3 +18,6 @@ elif symbol == "x":
 
 else:
     print("Simbolul e gresit")
+
+
+print("Hiiii")
